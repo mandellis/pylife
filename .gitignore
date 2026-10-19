@@ -61,4 +61,4 @@ coverage_report*
 
 .hypothesis
 .mutmut-cache
-.python-version
+.python-version.vs/
